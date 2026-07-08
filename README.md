@@ -18,7 +18,7 @@
 
 ### 📫 How to reach me
 - GitHub: [@sinan05](https://github.com/sinan05)
-- Email: [Muhammed Sinan K P](muhammedsinankp05@gmail.com)
+- Email: [Muhammed Sinan K P](mailto:muhammedsinankp05@gmail.com)
 - LinkedIn: [MUHAMMED SINAN K P](https://www.linkedin.com/in/muhammed-sinan-kp)
 
 ---
