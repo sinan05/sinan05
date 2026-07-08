@@ -8,17 +8,18 @@
 - **Databases:** SQL
 
 ### 📜 Certifications
-<!-- Replace these with the exact course titles from your Coursera account -->
-- Google — *[exact certificate name, e.g. "Google IT Support Professional Certificate"]*
-- AWS — *[exact certificate name, e.g. "AWS Cloud Practitioner Essentials"]*
-- Microsoft — *[exact certificate name]*
+- Google — Google Cloud Cybersecurity Professional Certificate
+- AWS — AWS Cloud Solutions Architect Professional Certificate
+- Microsoft — Fundamentals of UI/UX Design
+- Tally — Tally Bookkeeper Professional Certificate
 
 ### 🚀 Currently building
 - **Skillswap** — a peer-to-peer platform (web + Android + iOS) where users can teach skills they know and learn new ones, with paid sessions arranged between learners and teachers.
 
 ### 📫 How to reach me
 - GitHub: [@sinan05](https://github.com/sinan05)
-<!-- Add your email or LinkedIn here if you'd like recruiters/collaborators to reach you -->
+- Email: [Muhammed Sinan K P](muhammedsinankp05@gmail.com)
+- LinkedIn: [MUHAMMED SINAN K P](https://www.linkedin.com/in/muhammed-sinan-kp)
 
 ---
 ⭐️ From [sinan05](https://github.com/sinan05)
